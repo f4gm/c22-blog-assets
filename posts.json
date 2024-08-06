@@ -2,18 +2,18 @@
   "posts": [
     {
       "id": "1",
-      "name": "Post 1",
-      "image": "https://raw.githubusercontent.com/f4gm/c22-blog-assets/master/earth.avif",
-      "date": "2024-08-05",
-      "description": "Sample post 1.",
-      "content": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eos ut ratione recusandae quo explicabo similique repellendus."
+      "name": "Post de prueba numero 1",
+      "image": "https://raw.githubusercontent.com/f4gm/c22-blog-assets/master/hover/earth.avif",
+      "date": "5 de agosto del 2024",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eos ut ratione recusandae quo explicabo similique repellendus.",
+      "content": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eos ut ratione recusandae quo explicabo similique repellendus. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eos ut ratione recusandae quo explicabo similique repellendus. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eos ut ratione recusandae quo explicabo similique repellendus."
     },
     {
       "id": "2",
-      "name": "Post 2",
-      "image": "https://raw.githubusercontent.com/f4gm/c22-blog-assets/master/earth.avif",
-      "date": "2024-08-04",
-      "description": "Sample post 2.",
+      "name": "Post de prueba numero 2",
+      "image": "https://raw.githubusercontent.com/f4gm/c22-blog-assets/master/hover/nature.avif",
+      "date": "4 de agosto del 2024",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eos ut ratione recusandae quo explicabo similique repellendus.",
       "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Illum ratione dolore consequatur, tempora dolor minus libero temporibus odit doloribus nulla molestias quaerat odio, voluptates ea!"
     }
   ]
